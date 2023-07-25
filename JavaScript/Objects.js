@@ -11,6 +11,7 @@ var student = {
     },
     logout(){
         console.log('Student has logged out!!')
+        //return;
     },
     toLogIn(){
         console.log(this.name, 'logs in');
