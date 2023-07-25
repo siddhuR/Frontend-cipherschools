@@ -59,4 +59,3 @@ student.toLogIn();
     // str='New String';
     // console.log(str.valueOf());
 
-    var str = new String('')
